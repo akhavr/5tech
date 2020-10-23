@@ -1,4 +1,9 @@
+<div style="text-align: right">
 *Brave new tech world*
+
+*Scio do forza*
+*Forza do carta*
+</div>
 
 # Why "us" vs "them"
 
