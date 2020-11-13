@@ -161,19 +161,39 @@ if you're interested.
 
 ## Raw materials
 
+Main idea is recycling.  Recycle everything.
+
+Paper and cardboard recycling:
+
+1. https://www.instructables.com/Recycle-Cardboard-Into-Anything-With-3D-Printing/
+
+Glass recycling:
+
+1. https://en.wikipedia.org/wiki/Glass_casting
+
+Plastic recycling:
+
+1. https://preciousplastic.com/ and https://github.com/ONEARMY
+
+Metal recycling:
+
 TBD
 
 ## Additive methods
 
-TBD
+- 3D printing
+- Injection molding
 
 ## Substractive methods
 
-TBD
+- CNC
+- Lathing
 
 ## Combining
 
-TBD
+- Knitting
+- Weaving
+- Welding
 
 # Food
 
