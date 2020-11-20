@@ -177,7 +177,9 @@ Plastic recycling:
 
 Metal recycling:
 
-TBD
+1. Aluminum https://www.instructables.com/Recycling-Aluminum-Aluminium-Make-your-own-Al-foun/
+2. Copper
+3. Iron
 
 ## Additive methods
 
