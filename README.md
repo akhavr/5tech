@@ -219,7 +219,11 @@ TBD
 
 # Medicine
 
-TBD
+## Diagnostics
+
+## Drugs
+
+## Other treatment
 
 # Education
 
