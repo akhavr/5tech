@@ -199,11 +199,15 @@ Metal recycling:
 
 # Food
 
-TBD
+Hydroponics
 
 # Chemistry
 
-TBD
+Need to design and build machines, based on Material processing section.  Like this: https://www.reddit.com/r/chemistry/comments/dwysxe/one_step_closer_to_completing_my_open_source_diy/
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179636
+
+http://www.chem.gla.ac.uk/cronin/chemify/  https://www.chemistryworld.com/news/robotic-organic-synthesis-to-make-reproducibility-simple-in-chemistry/3009843.article#/ https://youtu.be/WvEkm7ZBKSc
 
 # Electric and Electronics
 
