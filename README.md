@@ -203,27 +203,63 @@ Hydroponics
 
 # Chemistry
 
-Need to design and build machines, based on Material processing section.  Like this: https://www.reddit.com/r/chemistry/comments/dwysxe/one_step_closer_to_completing_my_open_source_diy/
+It's necessary to design and build machines, based on Material
+processing section.  Few examples are given below.
 
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179636
+## Pipetting
 
-http://www.chem.gla.ac.uk/cronin/chemify/  https://www.chemistryworld.com/news/robotic-organic-synthesis-to-make-reproducibility-simple-in-chemistry/3009843.article#/ https://youtu.be/WvEkm7ZBKSc
+* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179636
+* https://www.mdpi.com/2076-3417/10/3/814/htm with repos at
+  https://bitbucket.org/afaina/evobliss-hardware/src/master/ and
+  https://bitbucket.org/afaina/evobliss-software/src See also
+  https://www.thingiverse.com/thing:2776125
+
+## Synthesis
+
+http://www.chem.gla.ac.uk/cronin/chemify/
+https://www.chemistryworld.com/news/robotic-organic-synthesis-to-make-reproducibility-simple-in-chemistry/3009843.article#/
+https://youtu.be/WvEkm7ZBKSc
 
 # Electric and Electronics
 
-TBD
+## Wires
+
+- Copper
+- Aluminum
+- Organic conductors https://en.wikipedia.org/wiki/Conductive_polymer
+
+## Motors
+
+Conventional motors require isolated copper wires and magnets
+
+It might be possible to design a motor, using organic conductors
+
+## Conventional P-N transition
+
+No hope
+
+## Organic electronics
+
+https://en.wikipedia.org/wiki/Organic_semiconductor and
+https://en.wikipedia.org/wiki/Molecular_electronics
 
 # Microelectronics and processors
 
-TBD
+Combination of organic electronics and STM
 
 # Medicine
 
 ## Diagnostics
 
+TBD
+
 ## Drugs
 
+Same as in Chemistry, basically
+
 ## Other treatment
+
+TBD
 
 # Education
 
