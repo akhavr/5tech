@@ -13,96 +13,107 @@ Freedom vs "do as everyone does because fuck you, that's why".
 
 Cited from [here](https://www.facebook.com/dr.orlovsky/posts/10159478685639041)
 
-Я всерьез опасаюсь (и вижу долгосрочные факты того), что хорошие
-времена, длившиеся в 1970-2000, окончательно кончились, причем
-глобально. Началось все с “борьбы” с терроризмом после 2001 и
-самолетных ограничений, потом кризис 2008 и анлим по печатанию денег,
-потом конец банковской тайны, потом запрет на движение денег между
-странами, теперь ковидка и ограничения в реальной жизни + параллельно
-(вы это пока не видите) цензура в СМИ и тотальная прослушка/слежка.
+I am really concerned (and I see long lasting proofs), that
+good times of 1970-2000, are entirely over, globally. 
+Everything started with 'fighting' terrorism after 2001 and airflights
+restrictions, then crisis of 2008 and dismissing the money printing 
+limits, after that the end of bank secrecy came, then prohibition of
+moving money between countries, now covid and restrictions in real life +
+in parallel with that (you might not see it yet) censorship of social media
+and absolute survelliance and wiretapping.
 
-Мы _уже_ живем в дивном новом мире, и не будет события “ковид
-закончится и все вернется как раньше”. Не для того его (карантин и
-инфоповоды паники ковида) делали, чтобы убирать. Да, часть ограничений
-изменится на более мягкие, но тотальный контроль никуда не уйдет,
-просто в самых ярких формах его чуть замаскируют и придумают более
-стабильные инфоповоды для того, зачем он нужен.
+We already are living in a brave new world, and there will not be a
+'covid is over and everything is back to normal' event.
+Quarantine and panic-inducing info-occasions were not introduced
+in order to be lifted later. Yes, some part of the restrictions will
+be changed into something softer, but total control will not
+disappear, it will simply be disguised a bit and will be accompanied
+by more stable info-occasions to prove the control is a neccessity.
 
-Хотя, придумыванием уже не парятся, похоже политики с бюрократами
-окончательно осознали “а что они нам сделают” и запрещают все что
-хотят, произвольно и совершенно не опасаясь последствий – и даже не
-утруждаясь давать мотивацию решениям или придавать им вид логики в
-связи с “пандемией”. Запрещают просто потому, что могут, и потому что
-им никто ничего не сделает за это.
+Though, they are not bothering much on making things up any more.
+It seems that politicians and bureaucrats finally realized the impunity
+('and what will people do about it?') and started to simply forbid 
+whatever they want, randomly, without being afraid of the consequences -
+and even without giving any motivation to their decisions or
+making those decisions seem logical due to the 'pandemic'. They forbid
+simply because they can, and no one will do anything to them for it.
 
-Помимо личного дискомфорта (который будет шкалить) это все будет иметь
-еще одно крайне важное измерение: долгосрочное и прогрессивное падение
-уровня жизни, рост нищеты, преступности, сворачивание
-предпринимательства, снижение инноваций, в общем наступление новых
-темных веков (мракобесие уже и так наступило)
+Along with the personal discomfort (which would go through the roof)
+all of this will have one very important dimension: long-lasting and 
+progressive falling of living standards, increase of poverty, crime,
+killing the enterpreneurship, decrease in innovations and the beginning
+of the new Dark Ages (obscurantism is already in place btw).
 
-Мой начальный расчет был таков, что новые темные века будут наступать
-медленно, десятилетиями, но я не дооценил темпов ускорения
-исторических процессов. Тем более пару десятилетий их наступления мы
-уже пережили. Кстати вся пресловутая политкорректность, борьба за
-экологию, биоэтика — все это части одной этой хрени. Глобальная победа
-глобальной бюрократии/номенклатуры; СССР-2 на весь мир, с социализмом,
-цензурой, хождением строем, плановой экономикой, неизбераемной
-номенклатурной властью "исполкомов", идеологией (тскаженной
-толерантности и псевдо-мультикультурализма) и т.д.
+My initial calculation was that the new Dark Ages will be coming upon us
+slowly, within dozens of years, but I underestimated the speed of 
+historical processes acceleration. Furthermore, we have already lived 
+through a couple of dozens years of it. By the way, the well-known
+political corectness, war for ecology, bioethics - all of those 
+are parts of this same shit. The Global victory of the global 
+bureaucracy/nomenclature; USSR-2 spread all over the world, with socialism,
+censorship, walking orders, centrally planned economy, unelected nomenclature 
+authorities from the "executive committees", ideology (distorted
+tolerance and pseudo-multiculturalism), etc.
 
-Чтобы не быть в очередной раз понятым неверно, я не отрицаю терактов,
-факта наличия вируса (и даже определенной смертности от него); я
-говорю не о них. Я говорю о реакции чиновников и том, что эти
-объективные события используют как повод для неадекватных (но так
-нужных им) действий. Используют, раздувая панику, и пришивая
-мракобесные мотивации своих решений. И опять же, нет какого-то
-всемирного заговора бюрократов, они просто используют что
-подворачивается само - и был бы не вирус, использовали что-то другое,
-ситуативно, без координации, просто потому что интересы номенклатуры
-во всем мире одни, возникает ощущение одной системы, хотя на деле это
-крайне децентрализованный бред (и поэтому такой устойчивый). Да и не в
-одной номенклатуре/бюрократии/политиках дело: они кровь от крови
-населения, эти садисты и мазохисты друг друга достойны и радуются друг
-другу.
+In order to not be misunderstood again, I'm not denying terrorist attacks,
+the fact of existance of the virus (and even some level of its lethality);
+I'm not talking about all that. I'm talking about the officials' reaction,
+about the way they are using these objective events as the reason for 
+inadequate actions, the ones they need so much. They are using those events
+by increasing the panic and making up obscurantistic motivations of their 
+decisions. And once again, there is no world-level bureaucratic conspiracy,
+they are simply using what gets in their hands, and if it were not because of
+the virus, they would have used something else, opportunistically, without any
+coordination. Just because nomenclature's interests are same all around 
+the world, it creates a feeling of existance of some kind of system, though
+in reality, it's just a decentralized dellusion (thus - so robust). And the 
+thing is not only about bureaucrats, politicians, nomenclature: they are
+blood from blood of all the rest of the society, these sadists and masochists
+are worth each other and are more than happy for each other.
 
-Я совсем о другом: надо быть готовыми и предпринимать меры к тому, что
-будет хуже, и долгосрочно. Поэтому прошу вас, кто еще это не понял,
-понять и начать действовать не исходя из неверной парадигмы “вирус
-виноват”, а из парадигмы что вирус тут вообще не при чем и просто
-использован как повод для того, что происходило бы в любом случае
-(может разве что позже/медленнее) - и никуда с уходом вируса не
-денется.
+I'm talking about a different thing: we need to be ready and to take 
+actions keeping in mind that all this is going to stay here for a long while.
+Thus, I'm asking you, those who are not getting it yet, please understand it
+and move from acting in accordance with 'it's all the virus's fault' 
+paradigm, to the one based on the fact that virus has nothing to do with this
+and it's being used as an excuse for what would have been happenning
+anyway (maybe a bit later/slower though) - and it will not disappear
+even if the virus goes away.
 
-Всем, всем (из политиков и населения, кроме узкой прослойки
-предпринимателей и творческих людей, которыми всегда жертвуют) были
-невыгодна свобода перемещения внутри Шенгена, безвизы с ЕС и пр. Это
-сложно отменить, так как это международные соглашения. Поэтому надо
-найти повод ввести ЧС, и таким образом отменить такие вещи de facto не
-отменяя de jure. И так далее, по куче поводов.
+To everyone, from politicians and society, except for a small
+bunch of entrepreneurs and artists which have always been sacrifised, 
+free movevement within the Schengen zone, absence of visas with EU etc 
+have never been beneficial. And all this is difficult to revert as these 
+freedoms were based on  international agreements. This is why they needed to 
+find a reason to introduce an emergency state thus cancelling everything
+de facto without cancelling it de jure. Same goes for many other 
+cases, using many different reasons.
 
-Люди, толпа в любой стране, не хотят мигрантов, чтобы у них "отбирали
-рабочие места", не хотят свободы торговли (боясь демпинга цен/роста
-качества из-за импорта), а хотят чтобы бесплатно всем раздавали деньги
-и не надо было работать. Конечно же эти желания исполнят “выбираемые”
-ими политики, и если политиков от этого ограничивает конституция,
-международное право и соглашения — они найдут способ ограничить эту
-конституцию, международное право и соглашения, и во все эпохи для
-этого использовались чрезвычайные положения. Но разумеется толпа не
-понимает, что после исполнения их желаний им же станет значительно
-хуже жить, потому что тупая. Ведь станет хуже позже, и связи они не
-проведут, обвинив уже в этом не себя и не политиков, а эмигрантов,
-живущих по близости, богатых людей, ученых, ведьм, иностранных
-агентов, евреев, еще кого. Так всегда было.
+People, the crowd of any country, do not want any immigrants to 'take
+away their work places', do not want the freedom of trade (because of
+being afraid of price dumping and quality increase). All they want is 
+to receive money for free and never have a need to work. And of course,
+these wishes will come true thanks to the 'elected' politicians,
+and if the politicians are restricted from it by constitution, 
+international law or agreements - they will find ways to restrict
+this constitution, international laws and agreements, and throughout
+the history, emergency state has been used for this purpose. But of course,
+the crowd, due to its being dumb, does not understand that after 
+fulfilling their wishes, their lives will become much worse. Because
+the worsening will happen further down the road and people will not
+be able to relate it to themselves or politicians - they will blame
+immigrants that live nearby, wealthy people, scientists, witches,
+foreign agents, jews whoever. It has always been this way.
 
-Поэтому я говорю уже сейчас готовится к тому, что скоро не только
-свободы передвижения между странами не будет, и что вас будут
-заставлять под страхом уголовной ответственности носить знаки
-покорности (маску, колокольчик в носу, еще что), чтобы выявлять буйных
-и социально опасных (то есть непокорных им), но и сделают скоро
-крайними во всех бедах мира, из-за того что у вас больше денег чем у
-других или не та национальность — ну или на крайний случай просто
-потому что “сильно умные".
+This is why I'm encouraging to already start preparing for not
+having the freedom of movement between countries, for you being forced
+by threatening with a criminal liability to wear signs of obedience
+(mask, nose bell whatever), in order to detect the 'wild' and socially
+dangerous subjects (meaning - unsubmissive to them). And also, to be
+prepared for potentially becoming the scapegoats of every possible
+problem the world has, because you have more money than others or
+you have a wrong nationality - or, as a last resort - simply because you are
+'too smart'.
 
 # Technology basis
 
