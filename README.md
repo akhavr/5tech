@@ -245,7 +245,16 @@ https://en.wikipedia.org/wiki/Molecular_electronics
 
 # Microelectronics and processors
 
-Combination of organic electronics and STM
+STM lithography
+https://www.ntmdt-si.com/resources/spm-principles/lithographies/stm-lithography
+and deposition of organic electronics.
+
+DIY STM:
+
+- https://www.andreimark.in/post/my-homemade-electron-microscope-with-subatomic-resolution and https://www.andreimark.in/post/homemade-electron-microscope-what-can-this-thing-deux
+- http://web.mit.edu/vex/www/projects/stm/
+- https://dberard.com/home-built-stm/ https://hackaday.io/project/4986-scanning-tunneling-microscope based on
+- http://web.archive.org/web/20121111131223/http://www.geocities.com/spm_stm/index.html
 
 # Medicine
 
